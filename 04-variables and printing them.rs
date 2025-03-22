@@ -21,10 +21,4 @@ fn main() {
     println!("i is {}",i);
     print!("this is how you ");
     print!("print without new line");
-
-
-
-
-
-
 }
